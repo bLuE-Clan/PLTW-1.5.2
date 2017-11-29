@@ -1,0 +1,6 @@
+1. I like using "real" documentation because the way you input the coordinates,
+   colors, and widths. I struggle with some of the syntax.
+
+2. GUI canvas is different from an image because there are interactive objects in 
+   a GUI canvas, whereas an image is not interactive. You can add buttons, sliders,
+   and many more options into a GUI, while an image is just a static set of pixels.
